@@ -1,0 +1,22 @@
+html {
+    background: url("img/background.jpg");
+}
+div {
+    background-color: rgb(190, 29, 190);
+    padding: 14px 0px;
+    border-radius: 5px 17px;
+   border-color: purple;
+   color: white;
+}
+
+body {
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px 30px;
+    border-radius: 13px;
+    color: blueviolet;
+}
+
+button {
+    background-color: green;
+}
